@@ -5,7 +5,7 @@ realizei alguns exercícios para fixar melhor algumas funções do Python:
 
 # dados : número sorteado e número escolhido pela pessoa
 # o que fazer com os dados? compara-los e verificar se são iguais
-# restrição: valor de 1 a 10 inteiro e positivo
+# restrição: valor digitado deve ser de 1 a 10, inteiro e positivo
 # resultado : programa encerra se os valores forem iguais e repete se não forem
 
 # 1. sortear um número de 1 a 10
