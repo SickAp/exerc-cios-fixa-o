@@ -23,7 +23,7 @@ realizei alguns exercícios para fixar melhor algumas funções do Python:
 
     while not acertou:
         try:
-            valor = int(input('Digite um número de 1 a 10: ')) # Pede o número
+            valor = int(input('Digite um número de 1 a 10: ')).strip() # Pede o número
             if valor == numero_aleatorio:
                 print('Você acertou o número!')
                 acertou = True # Quebra o laço, pois acertou
