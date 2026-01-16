@@ -21,18 +21,18 @@ numero_aleatorio = random.randint(1,11)
 acertou = False
 while not acertou: # o ciclo se repete enquanto acertou for false (valor!= numero_aleatorio)
     valor = int(input('Digite um número de 1 a 10:'))
+if valor == numero_aleatorio:
+    print('Você acertou o número!')
+    acertou=True # QUEBRA O LAÇO DE REPETIÇÃO - fim do código
+else:
+    print('Errou tente de novo...')
 
-    if valor == numero_aleatorio:
-        print('Você acertou o número!')
-        acertou=True # QUEBRA O LAÇO DE REPETIÇÃO - fim do código
-    else:
-        print('Errou tente de novo...')
+# adicionando 1 a um valor de entrada 10 vezes:
 
-valor = int(input('Digite uma valor: '))
-
-# for a in range(10): 
-#     valor = (valor + 1 )
-#     print(valor)
+v = int(input('Digite uma valor: '))
+ for a in range(10): 
+     v = (v + 1 )
+     print(v)
 
 # SOMA DA LISTA COM REDUCE SEM USAR FUNÇÃO SUM:
 
