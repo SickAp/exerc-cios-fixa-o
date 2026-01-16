@@ -1,5 +1,5 @@
 # exerc-cios-fixa-o
-realizei alguns exercícios para fixar melhor algumas funções do Python:
+Realizei alguns exercícios para fixar melhor algumas funções do Python:
 
 # EXERCÍCIO 1:
 # MONTAGEM DE ALGORITMO :
