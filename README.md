@@ -1,6 +1,7 @@
 # exerc-cios-fixa-o
 realizei alguns exercícios para fixar melhor algumas funções do Python:
 
+# EXERCÍCIO 1:
 # MONTAGEM DE ALGORITMO :
 
 # dados : número sorteado e número escolhido pela pessoa
@@ -28,6 +29,7 @@ realizei alguns exercícios para fixar melhor algumas funções do Python:
         else:
             print('Errou tente de novo...')
 
+# EXERCÍCIO 2
 # adicionando 1 a um valor de entrada 10 vezes:
 
     v = int(input('Digite uma valor: '))
@@ -35,6 +37,7 @@ realizei alguns exercícios para fixar melhor algumas funções do Python:
          v = (v + 1 )
          print(v)
 
+# EXERCÍCIO 3
 # SOMA DA LISTA COM REDUCE SEM USAR FUNÇÃO SUM:
 
     from functools import reduce
