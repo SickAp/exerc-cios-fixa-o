@@ -33,7 +33,7 @@ realizei alguns exercícios para fixar melhor algumas funções do Python:
                 # Este else está no nível do if, dentro do try/while
                 print('Errou, tente de novo...') # Informa que errou e continua o loop-1
         except ValueError:
-            print('Você deve digitar um número válido...') # Trata erro se não for n
+            print('Você deve digitar um número válido...') # Trata erro se não for um número
 
 
 # EXERCÍCIO 2:
